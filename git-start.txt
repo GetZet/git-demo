@@ -1,0 +1,15 @@
+// Generate SSH key pair
+ssh-keygen -t rsa -C kariy@gmail.com
+
+// Configure username and e-mail
+git config --global user.name "Vitalii Karyi"
+git config --global user.email "vkariy@gmail.com"
+
+// Clone project to local machine
+git clone 
+
+// Status project
+git status
+
+// Add file to project
+git add git-start.txt
